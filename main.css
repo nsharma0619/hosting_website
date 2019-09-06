@@ -2,6 +2,9 @@
     background: url("https://paulmason.name/media/demos/full-screen-background-image/background.jpg");
     width: 100%;
     height: 528px;
+    background-size: cover;
+    background-position: top 40% left;
+    background-repeat: no-repeat;
 }
 #product-overview>h1{
     margin: 0%;
